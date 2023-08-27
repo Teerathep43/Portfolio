@@ -1,5 +1,5 @@
-# Responsive Portfolio Website Teerathep
-
+# Teerathep's Portfolio
+### Let's see what my project's have
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
@@ -8,6 +8,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Checkout my Resume at [Resume](https://drive.google.com/file/d/1REfLwbbVhQRIzAPnCdfGDN8-J-jpXaOL/view?usp=drive_link)
+💙 Checkout my [Resume](https://drive.google.com/file/d/1REfLwbbVhQRIzAPnCdfGDN8-J-jpXaOL/view?usp=drive_link) here.
 
 ![preview img](/preview.png)
